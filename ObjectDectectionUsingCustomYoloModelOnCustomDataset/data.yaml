@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Object-Detection Using Custom Yolo V8 Model/data/train
+val: /content/drive/MyDrive/Object-Detection Using Custom Yolo V8 Model/data/test
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
